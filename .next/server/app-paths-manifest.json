@@ -1,0 +1,8 @@
+{
+  "/page": "app/page.js",
+  "/report/page": "app/report/page.js",
+  "/collect/page": "app/collect/page.js",
+  "/rewards/page": "app/rewards/page.js",
+  "/leaderboard/page": "app/leaderboard/page.js",
+  "/carbon-footprint/page": "app/carbon-footprint/page.js"
+}

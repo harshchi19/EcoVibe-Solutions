@@ -1,0 +1,68 @@
+{
+  "..\\node_modules\\@web3auth\\ethereum-provider\\dist\\ethereumProvider.esm.js -> @ethereumjs/common": {
+    "id": "..\\node_modules\\@web3auth\\ethereum-provider\\dist\\ethereumProvider.esm.js -> @ethereumjs/common",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_ethereumjs_common_dist_esm_index_js.js"
+    ]
+  },
+  "..\\node_modules\\@web3auth\\ethereum-provider\\dist\\ethereumProvider.esm.js -> @ethereumjs/tx": {
+    "id": "..\\node_modules\\@web3auth\\ethereum-provider\\dist\\ethereumProvider.esm.js -> @ethereumjs/tx",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_ethereumjs_tx_dist_esm_index_js.js"
+    ]
+  },
+  "..\\node_modules\\@web3auth\\ui\\dist\\index.js -> ./dutch-DiANwAZ9.js": {
+    "id": "..\\node_modules\\@web3auth\\ui\\dist\\index.js -> ./dutch-DiANwAZ9.js",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_web3auth_ui_dist_dutch-DiANwAZ9_js.js"
+    ]
+  },
+  "..\\node_modules\\@web3auth\\ui\\dist\\index.js -> ./french-B3YnEDLw.js": {
+    "id": "..\\node_modules\\@web3auth\\ui\\dist\\index.js -> ./french-B3YnEDLw.js",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_web3auth_ui_dist_french-B3YnEDLw_js.js"
+    ]
+  },
+  "..\\node_modules\\@web3auth\\ui\\dist\\index.js -> ./german-yGRqEiRM.js": {
+    "id": "..\\node_modules\\@web3auth\\ui\\dist\\index.js -> ./german-yGRqEiRM.js",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_web3auth_ui_dist_german-yGRqEiRM_js.js"
+    ]
+  },
+  "..\\node_modules\\@web3auth\\ui\\dist\\index.js -> ./japanese-PAKDjIvb.js": {
+    "id": "..\\node_modules\\@web3auth\\ui\\dist\\index.js -> ./japanese-PAKDjIvb.js",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_web3auth_ui_dist_japanese-PAKDjIvb_js.js"
+    ]
+  },
+  "..\\node_modules\\@web3auth\\ui\\dist\\index.js -> ./korean-BiOFIrYs.js": {
+    "id": "..\\node_modules\\@web3auth\\ui\\dist\\index.js -> ./korean-BiOFIrYs.js",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_web3auth_ui_dist_korean-BiOFIrYs_js.js"
+    ]
+  },
+  "..\\node_modules\\@web3auth\\ui\\dist\\index.js -> ./mandarin-gvOygF75.js": {
+    "id": "..\\node_modules\\@web3auth\\ui\\dist\\index.js -> ./mandarin-gvOygF75.js",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_web3auth_ui_dist_mandarin-gvOygF75_js.js"
+    ]
+  },
+  "..\\node_modules\\@web3auth\\ui\\dist\\index.js -> ./portuguese-C2cLIm0o.js": {
+    "id": "..\\node_modules\\@web3auth\\ui\\dist\\index.js -> ./portuguese-C2cLIm0o.js",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_web3auth_ui_dist_portuguese-C2cLIm0o_js.js"
+    ]
+  },
+  "..\\node_modules\\@web3auth\\ui\\dist\\index.js -> ./spanish-Rcfzy6zC.js": {
+    "id": "..\\node_modules\\@web3auth\\ui\\dist\\index.js -> ./spanish-Rcfzy6zC.js",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_web3auth_ui_dist_spanish-Rcfzy6zC_js.js"
+    ]
+  },
+  "..\\node_modules\\@web3auth\\ui\\dist\\index.js -> ./turkish-lG8uvqm3.js": {
+    "id": "..\\node_modules\\@web3auth\\ui\\dist\\index.js -> ./turkish-lG8uvqm3.js",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_web3auth_ui_dist_turkish-lG8uvqm3_js.js"
+    ]
+  }
+}
